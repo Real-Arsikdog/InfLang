@@ -27,7 +27,7 @@ To get started with InfLang, you'll need to have the Java Development Kit (JDK) 
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/InfLang.git
+   git clone https://github.com/Real-Arsikdog/InfLang.git
    cd InfLang
    ```
 
